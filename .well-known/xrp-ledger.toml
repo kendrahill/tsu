@@ -1,0 +1,18 @@
+[[ISSUERS]]
+address = "rw7TsycsKPZa4FzCJV8n1r4UGY1VzabaBi"
+name = "TSU"
+
+[[TOKENS]]
+issuer = "rw7TsycsKPZa4FzCJV8n1r4UGY1VzabaBi"
+currency = "TSU"
+name = "TSU"
+desc = "ツ"
+icon = "https://tsutoken.com/logo.png"
+
+[[TOKENS.URLS]]
+url = "https://tsutoken.com"
+type = "website"
+
+[[TOKENS.URLS]]
+url = "https://x.com/tsuxrp"
+type = "social"
